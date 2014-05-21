@@ -1,5 +1,5 @@
 {
-  "name": "ArrayToBtree",
+  "name": "array-to-btree",
   "version": "1.0.0",
   "description": "Helper Method to flatten an array to Binary Tree",
   "main": "./lib/array-to-btree.js",
