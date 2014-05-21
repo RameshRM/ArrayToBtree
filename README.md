@@ -1,4 +1,4 @@
-ArrayToBtree
+ArrayToBtree [![Build Status](https://travis-ci.org/RameshRM/ArrayToBtree.svg?branch=master)](https://travis-ci.org/RameshRM/ArrayToBtree)
 ===============
 
 ### Summary
